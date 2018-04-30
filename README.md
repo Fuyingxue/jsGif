@@ -5,7 +5,7 @@
 
 ## echartsMove 图表
 
-![](https://github.com/nbhaohao/FePractice/blob/master/slidephoto/slidePhoto.gif "echartsMove")
+![](https://github.com/Fuyingxue/echartsMove/blob/master/echartsMove.gif "echartsMove")
 
 ## 音乐播放器
 
